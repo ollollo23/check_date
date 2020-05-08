@@ -21,7 +21,7 @@ with open('C:/Users/Артур/Desktop/skillbox/9/dz/registrations_.txt', mode='
 
 good = open('C:/Users/Артур/Desktop/skillbox/9/dz/registrations_good.log', mode='tw',
             encoding='utf-8')
-bad = open('C:/Users/Артур/Desktop/skillbox/9/dz/bad.txt', mode='tw',
+bad = open('C:/Users/Артур/Desktop/skillbox/9/dz/bad.log', mode='tw',
            encoding='utf-8')
 
 
