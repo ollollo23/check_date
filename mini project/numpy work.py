@@ -20,9 +20,6 @@ expert2 = np.array([[True, False, False, False, True],
                     [False, False, False, False, False],
                     [True, False, True, False, False]])
 
-essay = np.array([["pass", "not pass", "not pass", "not pass", "pass"],
-                  ["not pass", "not pass", "not pass", "not pass", "not pass"],
-                  ["pass", "not pass", "pass", "not pass", "not pass"]])
 
 Jakkarta = jakkar(expert1, expert2)
 
